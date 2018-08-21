@@ -1,0 +1,4 @@
+djangoblog/
+*.pyc
+*.db
+*.sqlite3
